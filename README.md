@@ -4,4 +4,4 @@ Developed a social network analysis project using Python to analyze Reddit data.
 
 Built a network model to represent the extracted data and employed network measures for analysis.
 
-Leveraged PRAW library for efficient data retrieval from Reddit and Reddit developer account was used to get the key and 
+Leveraged PRAW library for efficient data retrieval from Reddit and Reddit developer account was used to get the key
